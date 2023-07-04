@@ -184,6 +184,7 @@
 
 .desktop-navigation>a>i{
     margin-right: 5px;
+    color: #0c0c1c !important;
 }
 
 .desktop-navigation>a.active>i {
