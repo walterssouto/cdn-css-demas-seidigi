@@ -158,7 +158,7 @@
     align-items: center !important;
     justify-content: flex-start !important;
     background-color: unset !important;
-    color: #000518;
+    color: #2670e8 !important;
     font-size: 17px;
     z-index: 99999 !important;
 }
@@ -170,13 +170,13 @@
 .desktop-navigation>a{
     padding: 10px;
     text-decoration: none;
-    color: #000518 !important;
+    color: #2670e8 !important;
 
     font-size: 17px;
 }
 
 .desktop-navigation>a.active{
-    background-color: #000518;
+    background-color: #2670e8;
     color: white !important;
     border-top-left-radius: 16px;
     border-top-right-radius: 16px;
@@ -489,8 +489,6 @@
     margin-right: 48px !important;
     margin: auto !important;
     max-height: 90% !important;
-   
-
 }
 
 .custom-font {
