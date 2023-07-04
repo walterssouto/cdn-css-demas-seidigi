@@ -176,7 +176,7 @@
 }
 
 .desktop-navigation>a.active{
-    background-color: #2670e8;
+    background-color: #2670e8 !important;
     color: white !important;
     border-top-left-radius: 16px;
     border-top-right-radius: 16px;
@@ -187,7 +187,7 @@
 }
 
 .desktop-navigation>a.active>i {
-    color: #FF9900;
+    color: #2670e8 !important;
 }
 
 
