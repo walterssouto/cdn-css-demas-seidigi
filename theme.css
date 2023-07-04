@@ -170,13 +170,13 @@
 .desktop-navigation>a{
     padding: 10px;
     text-decoration: none;
-    color: #2670e8 !important;
+    color: #0c0c1c !important;
 
     font-size: 17px;
 }
 
 .desktop-navigation>a.active{
-    background-color: #2670e8 !important;
+    background-color: white !important;
     color: white !important;
     border-top-left-radius: 16px;
     border-top-right-radius: 16px;
@@ -187,7 +187,7 @@
 }
 
 .desktop-navigation>a.active>i {
-    color: #2670e8 !important;
+    color: white !important;
 }
 
 
